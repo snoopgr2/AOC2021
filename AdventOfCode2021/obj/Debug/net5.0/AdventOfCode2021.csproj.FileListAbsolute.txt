@@ -1,0 +1,15 @@
+/Users/gregbrignola/AdventOfCode2021/bin/Debug/net5.0/AdventOfCode2021.deps.json
+/Users/gregbrignola/AdventOfCode2021/bin/Debug/net5.0/AdventOfCode2021.runtimeconfig.json
+/Users/gregbrignola/AdventOfCode2021/bin/Debug/net5.0/AdventOfCode2021.runtimeconfig.dev.json
+/Users/gregbrignola/AdventOfCode2021/bin/Debug/net5.0/AdventOfCode2021.dll
+/Users/gregbrignola/AdventOfCode2021/bin/Debug/net5.0/ref/AdventOfCode2021.dll
+/Users/gregbrignola/AdventOfCode2021/bin/Debug/net5.0/AdventOfCode2021.pdb
+/Users/gregbrignola/AdventOfCode2021/obj/Debug/net5.0/AdventOfCode2021.csprojAssemblyReference.cache
+/Users/gregbrignola/AdventOfCode2021/obj/Debug/net5.0/AdventOfCode2021.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gregbrignola/AdventOfCode2021/obj/Debug/net5.0/AdventOfCode2021.AssemblyInfoInputs.cache
+/Users/gregbrignola/AdventOfCode2021/obj/Debug/net5.0/AdventOfCode2021.AssemblyInfo.cs
+/Users/gregbrignola/AdventOfCode2021/obj/Debug/net5.0/AdventOfCode2021.csproj.CoreCompileInputs.cache
+/Users/gregbrignola/AdventOfCode2021/obj/Debug/net5.0/AdventOfCode2021.dll
+/Users/gregbrignola/AdventOfCode2021/obj/Debug/net5.0/ref/AdventOfCode2021.dll
+/Users/gregbrignola/AdventOfCode2021/obj/Debug/net5.0/AdventOfCode2021.pdb
+/Users/gregbrignola/AdventOfCode2021/obj/Debug/net5.0/AdventOfCode2021.genruntimeconfig.cache
